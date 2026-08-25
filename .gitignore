@@ -1,0 +1,19 @@
+# Secrets — Maven Central / GPG signing credentials live here (see gradle.properties)
+gradle.properties
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+out/
+
+# OS
+.DS_Store
+
+# Claude Code
+.claude/
